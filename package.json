@@ -1,0 +1,12 @@
+{
+  "name": "markdown-blog-gen",
+  "version": "0.1.0",
+  "description": "Static blog generator from markdown files",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["blog", "markdown", "static-site-generator"],
+  "author": "DanielWilliams007",
+  "license": "MIT"
+}
