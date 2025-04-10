@@ -4,7 +4,11 @@
   "description": "Static blog generator from markdown files",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "build": "node index.js build"
+  },
+  "dependencies": {
+    "marked": "^4.0.0"
   },
   "keywords": ["blog", "markdown", "static-site-generator"],
   "author": "DanielWilliams007",
