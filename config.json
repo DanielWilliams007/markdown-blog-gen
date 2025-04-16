@@ -1,0 +1,8 @@
+{
+  "title": "My Blog",
+  "author": "DanielWilliams007",
+  "url": "https://example.com",
+  "postsPerPage": 10,
+  "inputDir": "posts",
+  "outputDir": "dist"
+}
